@@ -1,0 +1,2 @@
+# my-notes
+first assignement
